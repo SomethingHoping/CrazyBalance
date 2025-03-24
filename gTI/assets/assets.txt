@@ -1,5 +1,0 @@
-libgdx.png
-metalui/font-export.fnt
-metalui/metal-ui.atlas
-metalui/metal-ui.json
-metalui/metal-ui.png
